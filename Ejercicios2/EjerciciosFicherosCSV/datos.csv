@@ -1,0 +1,699 @@
+N,Nombre,Rango,Tribu,Elemento,Comida fav.
+1,Robin Ful,E,Valiente,Tierra,Verduras
+2,Tornalmohado,E,Valiente,Tierra,Arroz
+3,Alcaldero,E,Valiente,Fuego,Arroz
+4,Sinná,C,Valiente,Fuego,Arroz
+5,Sinnareno,B,Valiente,Tierra,Arroz
+6,Katano,E,Valiente,Viento,Refrescos
+7,Katananái,C,Valiente,Viento,Refrescos
+8,Katakroken,B,Valiente,Hielo,Refrescos
+9,Milimpiano,E,Valiente,Hielo,Postres
+10,Samulimpio,B,Valiente,Hielo,Postres
+11,Dormileón,E,Valiente,Hielo,Comida china
+12,León Alfa,A,Valiente,Hielo,Comida china
+13,Pataleto,E,Valiente,Fuego,Carne
+14,Osfurio,A,Valiente,Fuego,Carne
+15,Sacoco,S,Valiente,Hielo,Carne
+16,Gran Coco,S,Valiente,Hielo,Carne
+17,Mochimacho,D,Valiente,Tierra,Arroz
+18,Machimío,D,Valiente,Fuego,Arroz
+19,Minimoto,D,Valiente,Viento,Helado
+20,Puergazán,D,Valiente,Fuego,Curry
+21,Torreznio,B,Valiente,Fuego,Curry
+22,Samuranguila,D,Valiente,Agua,Pescado
+23,Anguilocio,B,Valiente,Agua,Pescado
+24,Bola Blanda,D,Valiente,Hielo,Perritos calientes
+25,Bateadós,B,Valiente,Hielo,Perritos calientes
+26,Yelmandante,D,Valiente,Relámpago,Verduras
+27,Juntollero,A,Valiente,Relámpago,Verduras
+28,Genedáver,S,Valiente,Absorción,Verduras
+29,Cortarroz,D,Valiente,Restauración,Arroz
+30,Socarrat,A,Valiente,Fuego,Arroz
+31,Chupatinas,D,Valiente,Relámpago,Productos cocidos
+32,Chupapremios,A,Valiente,Absorción,Productos cocidos
+33,Guerrero Güey,D,Valiente,Fuego,Carne
+34,Huracán Güey,A,Valiente,Fuego,Carne
+35,Atierrador,C,Valiente,Tierra,Productos cocidos
+36,Barbacoo,C,Valiente,Fuego,Carne
+37,Piopío Yonohesido,C,Valiente,Viento,Tempura
+38,Benkei,C,Valiente,Hielo,Comida china
+39,B3-NK1,B,Valiente,Relámpago,Comida china
+40,Flamileón,C,Valiente,Fuego,Carne
+41,Tembloleón,B,Valiente,Tierra,Carne
+42,Sirleón,A,Valiente,Relámpago,Carne
+43,Ludorái,C,Valiente,Fuego,Pescado
+44,Lustre,A,Valiente,Viento,Pescado
+45,Furtre,A,Valiente,Absorción,Pescado
+46,Dortre,S,Valiente,Relámpago,Pescado
+47,Hovernyan,B,Valiente,Viento,Pescado
+48,Ultra N,B,Valiente,Viento,Aperitivos
+49,Ultra K,B,Valiente,Agua,Aperitivos
+50,Globonauta,B,Valiente,Fuego,Perritos calientes
+51,Sushiyama,B,Valiente,Hielo,Fideos
+52,Kapunki,A,Valiente,Fuego,Fideos
+53,Lucharabajo,B,Valiente,Tierra,Verduras
+54,Camperabajo,S,Valiente,Hielo,Verduras
+55,Chafarabajo,S,Valiente,Relámpago,Verduras
+56,Tigrenyan,A,Valiente,Relámpago,Chocobarrita
+57,Momonyan,A,Valiente,Fuego,Sushi
+58,Sir Nyancelot,A,Valiente,Hielo,Aperitivos
+59,Capi-Cachas,A,Valiente,Relámpago,Hamburguesa
+60,Coman-Cachas,S,Valiente,Relámpago,Hamburguesa
+61,Devoramonios,S,Valiente,Tierra,Carne
+62,Devoralmas,S,Valiente,Absorción,Carne
+63,Iluminocto,S,Valiente,Relámpago,Pescado
+64,Aracnéfico,S,Valiente,Fuego,Tempura
+65,Shurikenny,S,Valiente,Viento,Sushi
+66,Nunchucky,S,Valiente,Viento,Sushi
+67,Camelia,S,Valiente,Restauración,Fideos
+68,Fracaguas,E,Misteriosa,Viento,Aperitivos
+69,Chancleto,E,Misteriosa,Tierra,Aperitivos
+70,Cremallero,E,Misteriosa,Relámpago,Rosquillas
+71,Metepatas,E,Misteriosa,Hielo,Perritos calientes
+72,Mokopavo,E,Misteriosa,Agua,Pescado
+73,Pachús,D,Misteriosa,Hielo,Pescado
+74,Yopaso,E,Misteriosa,Restauración,Hamburguesa
+75,Puf,C,Misteriosa,Restauración,Hamburguesa
+76,Yanomás,C,Misteriosa,Tierra,Hamburguesa
+77,Komemo,E,Misteriosa,Viento,Chuches
+78,Komecasa,B,Misteriosa,Viento,Chuches
+79,Tontolín,E,Misteriosa,Relámpago,Chuches
+80,Mochueloqué,E,Misteriosa,Viento,Pasta
+81,Todoídos,A,Misteriosa,Viento,Pasta
+82,Preguntio,E,Misteriosa,Relámpago,Curry
+83,Respondio,A,Misteriosa,Relámpago,Curry
+84,Sincara,D,Misteriosa,Agua,Productos cocidos
+85,Tomoko,D,Misteriosa,Absorción,Aperitivos
+86,Exitio,D,Misteriosa,Agua,Pasta
+87,Cachocarne,D,Misteriosa,Tierra,Helado
+88,Mazorco,D,Misteriosa,Relámpago,Rosquillas
+89,Cascarito,D,Misteriosa,Hielo,Pan
+90,Algazara,D,Misteriosa,Absorción,Hamburguesa
+91,Labizula,C,Misteriosa,Absorción,Hamburguesa
+92,Cotilleja,D,Misteriosa,Restauración,Ramen
+93,Marulleja,B,Misteriosa,Restauración,Ramen
+94,Esquelleja,C,Misteriosa,Restauración,Ramen
+95,Cupístolo,D,Misteriosa,Viento,Postres
+96,Casanovo,A,Misteriosa,Viento,Postres
+97,Casanono,A,Misteriosa,Fuego,Postres
+98,Losiento,D,Misteriosa,Relámpago,Curry
+99,Domiplof,A,Misteriosa,Tierra,Curry
+100,Niebli,D,Misteriosa,Viento,Postres
+101,Nébula,A,Misteriosa,Viento,Postres
+102,Ondívoro,D,Misteriosa,Relámpago,Aperitivos
+103,Coberturo,A,Misteriosa,Relámpago,Productos cocidos
+104,Don Kaldo,A,Misteriosa,Relámpago,Productos cocidos
+105,Estatinarca,S,Misteriosa,Relámpago,Productos cocidos
+106,Falsillo,C,Misteriosa,Hielo,Sushi
+107,Apelicano,C,Misteriosa,Viento,Hamburguesa
+108,Normalino,C,Misteriosa,Viento,Pan
+109,Pomponio Gala,C,Misteriosa,Absorción,Rosquillas
+110,Fiestuki,C,Misteriosa,Fuego,Pizza
+111,Calaveroscopio,C,Misteriosa,Agua,Helado
+112,Leongüista,C,Misteriosa,Fuego,Pizza
+113,Ilúho,C,Misteriosa,Agua,Pan
+114,Elúho,C,Misteriosa,Hielo,Pan
+115,Ubiúho,B,Misteriosa,Relámpago,Pan
+116,Trilépata,C,Misteriosa,Tierra,Verduras
+117,Tetrariosa,B,Misteriosa,Absorción,Verduras
+118,Telespejo,C,Misteriosa,Absorción,Comida china
+119,Trielespejo,A,Misteriosa,Absorción,Comida china
+120,Malpejismo,A,Misteriosa,Absorción,Comida china
+121,Ambrosio,B,Misteriosa,Restauración,Fideos
+122,Estatiniño,B,Misteriosa,Relámpago,Aperitivos
+123,Profesor Avertijo,B,Misteriosa,Viento,Pescado
+124,Noaipapel,B,Misteriosa,Absorción,Tempura
+125,Jipigenio,B,Misteriosa,Viento,Helado
+126,Miss Teria,B,Misteriosa,Hielo,Pasta
+127,Maginyan,A,Misteriosa,Fuego,Postres
+128,Renaldo,A,Misteriosa,Hielo,Pasta
+129,Tengu,S,Misteriosa,Viento,Chuches
+130,Flamngu,S,Misteriosa,Fuego,Chuches
+131,Kyubi,S,Misteriosa,Fuego,Productos cocidos
+132,Nievacolas,S,Misteriosa,Hielo,Productos cocidos
+133,Kimera,S,Misteriosa,Relámpago,Comida china
+134,Kimerreal,S,Misteriosa,Relámpago,Sushi
+135,Belcefibio,S,Misteriosa,Viento,Sushi
+136,Isotomas,S,Misteriosa,Fuego,Tempura
+137,Coneagente,S,Misteriosa,Viento,Postres
+138,Blancacone,S,Misteriosa,Hielo,Postres
+139,Prudencio,E,Robusta,Fuego,Rosquillas
+140,Tentelento,E,Robusta,Tierra,Curry
+141,Tentemacho,B,Robusta,Tierra,Curry
+142,Tenterila,B,Robusta,Viento,Curry
+143,Quierodeso,E,Robusta,Hielo,Comida china
+144,Gambulloso,B,Robusta,Restauración,Pescado
+145,Indiligencio,E,Robusta,Tierra,Arroz
+146,Tanquivocado,B,Robusta,Tierra,Arroz
+147,Aterracota,E,Robusta,Tierra,Aperitivos
+148,Explotacota,B,Robusta,Tierra,Aperitivos
+149,Nihablar,E,Robusta,Tierra,Ramen
+150,Impás,B,Robusta,Tierra,Ramen
+151,Murallín,A,Robusta,Tierra,Ramen
+152,Rebelcebú,E,Robusta,Tierra,Ramen
+153,Caporrista,B,Robusta,Tierra,Ramen
+154,Hermanión,A,Robusta,Tierra,Ramen
+155,Grafilcebú,B,Robusta,Tierra,Perritos calientes
+156,Chocovaca,E,Robusta,Tierra,Chuches
+157,Vacaloca,A,Robusta,Tierra,Carne
+158,Fracalavero,E,Robusta,Tierra,Leche
+159,Calabilidoso,A,Robusta,Tierra,Leche
+160,Lorigón,D,Robusta,Hielo,Verduras
+161,Mimoniquí,D,Robusta,Hielo,Chuches
+162,Máster Chof,D,Robusta,Relámpago,Hamburguesa
+163,Monte Merario,D,Robusta,Tierra,Curry
+164,Globqueo,D,Robusta,Agua,Leche
+165,Globtundente,C,Robusta,Agua,Leche
+166,Sumodón,D,Robusta,Restauración,Fideos
+167,Supersumodón,B,Robusta,Restauración,Fideos
+168,Desinverest,D,Robusta,Fuego,Carne
+169,Inverestupción,B,Robusta,Fuego,Carne
+170,Inquielifante,D,Robusta,Agua,Arroz
+171,Perselefante,C,Robusta,Agua,Arroz
+172,Mamuguanto,A,Robusta,Agua,Arroz
+173,Rayael,D,Robusta,Relámpago,Comida china
+174,Cazarayos,A,Robusta,Relámpago,Comida china
+175,Calmarinero,D,Robusta,Agua,Rosquillas
+176,Almirante Admirable,A,Robusta,Agua,Rosquillas
+177,Zudado,C,Robusta,Fuego,Curry
+178,Peter Punki,C,Robusta,Relámpago,Perritos calientes
+179,Pantunflo,C,Robusta,Agua,Verduras
+180,Reahucio,C,Robusta,Tierra,Productos cocidos
+181,Radiopatio,C,Robusta,Fuego,Sushi
+182,Montaña Loca,C,Robusta,Hielo,Sushi
+183,Lord Lava,B,Robusta,Relámpago,Sushi
+184,Castelius III,C,Robusta,Tierra,Leche
+185,Castelius II,B,Robusta,Hielo,Leche
+186,Castelius I,A,Robusta,Relámpago,Leche
+187,Maxicastelius,S,Robusta,Viento,Leche
+188,Perronyan,B,Robusta,Tierra,Chocobarrita
+189,Pegarabajo,B,Robusta,Tierra,Verduras
+190,Enormarabajo,A,Robusta,Tierra,Verduras
+191,Cuernarabajo,S,Robusta,Tierra,Verduras
+192,Kintaronyan,A,Robusta,Tierra,Carne
+193,Filete II,A,Robusta,Fuego,Carne
+194,Robonyan,A,Robusta,Hielo,Chocobarrita
+195,Robonyan 2.0,A,Robusta,Fuego,Chocobarrita
+196,Showbonyan,A,Robusta,Relámpago,Chocobarrita
+197,Aureonyan,S,Robusta,Relámpago,Chocobarrita
+198,Pom,A,Robusta,Tierra,Verduras
+199,Flus,S,Robusta,Agua,Verduras
+200,Eleganfibio,S,Robusta,Agua,Fideos
+201,Frikigarto,S,Robusta,Fuego,Fideos
+202,Gargantúo,S,Robusta,Fuego,Carne
+203,Cazamentires,S,Robusta,Agua,Carne
+204,Demoniorco,S,Robusta,Absorción,Carne
+205,Kabukio,S,Robusta,Relámpago,Tempura
+206,Tiburón Tiburcio,S,Robusta,Agua,Perritos calientes
+207,Tiburón Jaquetón,S,Robusta,Agua,Perritos calientes
+208,Capitán Nublo,S,Robusta,Agua,Sushi
+209,Patis,E,Guapa,Restauración,Postres
+210,Sincopollo,E,Guapa,Relámpago,Refrescos
+211,Brownilda,E,Guapa,Restauración,Postres
+212,Chapulín,E,Guapa,Viento,Verduras
+213,Deslumbrella,E,Guapa,Fuego,Postres
+214,Rechinella,C,Guapa,Fuego,Postres
+215,Esquelebella,B,Guapa,Agua,Postres
+216,Ningarra,E,Guapa,Viento,Refrescos
+217,Habilgarra,C,Guapa,Viento,Refrescos
+218,Cantigarra,B,Guapa,Fuego,Refrescos
+219,Apanleado,E,Guapa,Tierra,Leche
+220,Panduro,A,Guapa,Tierra,Leche
+221,Escanlofrío,E,Guapa,Hielo,Ramen
+222,Frihuahua,A,Guapa,Hielo,Ramen
+223,Lavadenco,S,Guapa,Fuego,Ramen
+224,Superniñato,E,Guapa,Fuego,Aperitivos
+225,Superniñato Rebelde,S,Guapa,Fuego,Aperitivos
+226,Superniñato Picajoso,S,Guapa,Fuego,Aperitivos
+227,Picassina,D,Guapa,Hielo,Postres
+228,Chíclope,D,Guapa,Hielo,Productos cocidos
+229,BellónZ,D,Guapa,Restauración,Tempura
+230,Olvirunner,D,Guapa,Viento,Perritos calientes
+231,Gatallanes,D,Guapa,Agua,Pescado
+232,Limonescente,D,Guapa,Agua,Postres
+233,Baku,D,Guapa,Absorción,Refrescos
+234,Blanpir,C,Guapa,Absorción,Refrescos
+235,Somnia,B,Guapa,Absorción,Refrescos
+236,Pupilo Panja,D,Guapa,Hielo,Sushi
+237,Panja Pro,B,Guapa,Hielo,Sushi
+238,Tomanota,D,Guapa,Restauración,Pasta
+239,Zalameria,B,Guapa,Restauración,Pasta
+240,Kappandante,D,Guapa,Agua,Sushi
+241,Kappadachín,A,Guapa,Agua,Sushi
+242,Kapparfista,A,Guapa,Agua,Sushi
+243,Jibanyan,D,Guapa,Fuego,Chocobarrita
+244,Jibanyan B,B,Guapa,Fuego,Chocobarrita
+245,Jibanyan S,S,Guapa,Fuego,Chocobarrita
+246,Jibanyan Liu Bei,S,Guapa,Fuego,Chocobarrita
+247,Pelirrojo,C,Guapa,Fuego,Chocobarrita
+248,Espinyan,B,Guapa,Viento,Chocobarrita
+249,Pelochnyan,B,Guapa,Fuego,Chocobarrita
+250,Buchinyan,C,Guapa,Relámpago,Chocobarrita
+251,Komasan,D,Guapa,Fuego,Helado
+252,Komaleón,A,Guapa,Fuego,Helado
+253,Komasan B,B,Guapa,Fuego,Helado
+254,Komasan S,S,Guapa,Fuego,Helado
+255,Komasan Sun Ce,S,Guapa,Fuego,Helado
+256,Jibakoma,A,Guapa,Fuego,Chocobarrita
+257,Komajiro,D,Guapa,Relámpago,Leche
+258,Komatigrado,A,Guapa,Relámpago,Leche
+259,Komajiro S,S,Guapa,Relámpago,Leche
+260,Cellisca,C,Guapa,Agua,Refrescos
+261,Rapidizo,C,Guapa,Hielo,Curry
+262,Todoapesta,C,Guapa,Hielo,Pizza
+263,Relapache,C,Guapa,Agua,Refrescos
+264,Cafechucho,C,Guapa,Hielo,Refrescos
+265,Partidacio,C,Guapa,Restauración,Sushi
+266,Pufipatitas,C,Guapa,Restauración,Hamburguesa
+267,Pufilindo,B,Guapa,Restauración,Hamburguesa
+268,Pufimaloso,A,Guapa,Absorción,Hamburguesa
+269,Oso Boco,B,Guapa,Restauración,Carne
+270,Maravinyan,B,Guapa,Absorción,Chocobarrita
+271,Jetnyan,B,Guapa,Viento,Chocobarrita
+272,Simionyan,B,Guapa,Relámpago,Chocobarrita
+273,Tomnyan,B,Guapa,Fuego,Delicatesen
+274,Komaestopistas,B,Guapa,Restauración,Helado
+275,Fristina,B,Guapa,Hielo,Chuches
+276,Granizia,S,Guapa,Hielo,Chuches
+277,Dámona,S,Guapa,Hielo,Chuches
+278,Melonyan,A,Guapa,Hielo,Chocobarrita
+279,Naranyan,B,Guapa,Relámpago,Chocobarrita
+280,Kiwinyan,B,Guapa,Tierra,Chocobarrita
+281,Uvanyan,B,Guapa,Agua,Chocobarrita
+282,Fresanyan,B,Guapa,Fuego,Chocobarrita
+283,Sandinyan,A,Guapa,Viento,Chocobarrita
+284,Zafinyan,A,Guapa,Agua,Chocobarrita
+285,Esmenyan,A,Guapa,Restauración,Chocobarrita
+286,Rubinyan,A,Guapa,Fuego,Chocobarrita
+287,Topanyan,A,Guapa,Relámpago,Chocobarrita
+288,Diamanyan,A,Guapa,Hielo,Chocobarrita
+289,Robokapp,A,Guapa,Agua,Sushi
+290,Robokoma,A,Guapa,Fuego,Helado
+291,Sailornyan,A,Guapa,Restauración,Chocobarrita
+292,Rúbeo J,A,Guapa,Fuego,Chocobarrita
+293,Gran Sabueso,A,Guapa,Hielo,Helado
+294,Segadora,A,Guapa,Viento,Fideos
+295,Chocobonyan,A,Guapa,Viento,Verduras
+296,Mogurinyan,A,Guapa,Restauración,Helado
+297,Wobblenyan,A,Guapa,Agua,Chocobarrita
+298,Wibblekoma,A,Guapa,Viento,Helado
+299,Sushinyan,A,Guapa,Fuego,Sushi
+300,Tempurasan,A,Guapa,Fuego,Tempura
+301,Kappafalso,A,Guapa,Agua,Verduras
+302,Tigrappa,S,Guapa,Agua,Comida china
+303,Gran Mangu,S,Guapa,Viento,Pescado
+304,Tenguriginal,S,Guapa,Viento,Tempura
+305,Ángel Garudián,S,Guapa,Fuego,Tempura
+306,Sombrillo,E,Amable,Viento,Productos cocidos
+307,Leñaciegotxea,E,Amable,Tierra,Arroz
+308,Chunda y Tachunda,E,Amable,Restauración,Pasta
+309,Kieroto,E,Amable,Relámpago,Ramen
+310,Zampo,D,Amable,Tierra,Ramen
+311,Cimbrón,E,Amable,Restauración,Ramen
+312,Algacabana,C,Amable,Restauración,Ramen
+313,Pasodón,E,Amable,Restauración,Ramen
+314,Ritma,D,Amable,Restauración,Ramen
+315,Alga Senséi,C,Amable,Restauración,Fideos
+316,Abuzampa,E,Amable,Restauración,Arroz
+317,Gargazampa,B,Amable,Restauración,Arroz
+318,Aburroz,B,Amable,Restauración,Arroz
+319,Abuzampa XXL,B,Amable,Restauración,Carne
+320,Níscala,E,Amable,Restauración,Verduras
+321,Curaníscala,B,Amable,Restauración,Verduras
+322,Arenito,E,Amable,Restauración,Productos cocidos
+323,Don Arenito,B,Amable,Restauración,Productos cocidos
+324,Albornocita Azul,E,Amable,Agua,Helado
+325,Florentina,A,Amable,Agua,Helado
+326,Afronauta,D,Amable,Hielo,Rosquillas
+327,Arrocet,D,Amable,Restauración,Arroz
+328,Espe,D,Amable,Restauración,Helado
+329,Bellotieso,D,Amable,Tierra,Verduras
+330,Clicán,D,Amable,Restauración,Perritos calientes
+331,Contentallo,D,Amable,Restauración,Aperitivos
+332,Talloestrella,B,Amable,Restauración,Aperitivos
+333,Nomedá,D,Amable,Viento,Leche
+334,Florentina,A,Amable,Viento,Leche
+335,Opti,C,Amable,Agua,Leche
+336,Nomi,D,Amable,Restauración,Aperitivos
+337,Gran Nomi,A,Amable,Restauración,Aperitivos
+338,Enerposa,D,Amable,Restauración,Refrescos
+339,Eneposa,D,Amable,Absorción,Refrescos
+340,Mejorposa,A,Amable,Restauración,Refrescos
+341,Vivariposa,S,Amable,Restauración,Refrescos
+342,Torivinador,D,Amable,Restauración,Sushi
+343,Torivino,S,Amable,Restauración,Sushi
+344,DON-CHAN,C,Amable,Restauración,Aperitivos
+345,Rayito,C,Amable,Fuego,Postres
+346,Tricotom,C,Amable,Restauración,Curry
+347,Dádivo,C,Amable,Restauración,Curry
+348,Indeciguro,C,Amable,Agua,Helado
+349,Trabalanghi,C,Amable,Fuego,Curry
+350,Dormidomingo,C,Amable,Restauración,Helado
+351,Auxiliadora,C,Amable,Restauración,Pasta
+352,Abuflauta,C,Amable,Restauración,Verduras
+353,Gememinencias,C,Amable,Agua,Perritos calientes
+354,Repostilleja,C,Amable,Restauración,Leche
+355,Felisonte,C,Amable,Restauración,Pan
+356,Reversa,A,Amable,Restauración,Pan
+357,Reversada,A,Amable,Viento,Pan
+358,Faisanyan,B,Amable,Restauración,Chocobarrita
+359,Gogonzalo,B,Amable,Restauración,Pizza
+360,Esmaltina,B,Amable,Restauración,Tempura
+361,Roboabuzampa,B,Amable,Restauración,Arroz
+362,Bolilete,B,Amable,Agua,Chuches
+363,Doblilete,A,Amable,Agua,Chuches
+364,Sombrillogro,A,Amable,Tierra,Sushi
+365,Odisenyan,A,Amable,Restauración,Pescado
+366,Fantasfitriona,A,Amable,Restauración,Tempura
+367,Papá Rayo,A,Amable,Relámpago,Sushi
+368,Tío Infinito,S,Amable,Relámpago,Sushi
+369,Mamá Aura,A,Amable,Restauración,Verduras
+370,Tita Corazón,S,Amable,Restauración,Verduras
+371,Kyryn,S,Amable,Restauración,Comida china
+372,Unikyryn,S,Amable,Restauración,Fideos
+373,Sónico,S,Amable,Restauración,Pizza
+374,Supersónico,S,Amable,Restauración,Pizza
+375,Berenpenas,E,Oscura,Tierra,Pasta
+376,Akusika,E,Oscura,Absorción,Refrescos
+377,Leonerai,E,Oscura,Fuego,Rosquillas
+378,Noguío,E,Oscura,Hielo,Chuches
+379,Topami,D,Oscura,Absorción,Chuches
+380,Algio,E,Oscura,Tierra,Chuches
+381,Agujeto,C,Oscura,Tierra,Chuches
+382,Machaka,B,Oscura,Tierra,Chuches
+383,Acelgo,E,Oscura,Agua,Verduras
+384,Morenaso,B,Oscura,Fuego,Carne
+385,Envelo,E,Oscura,Relámpago,Hamburguesa
+386,Cafeíno,B,Oscura,Relámpago,Verduras
+387,Trenditópico,E,Oscura,Tierra,Pizza
+388,Retuiterio,B,Oscura,Tierra,Pizza
+389,Negatisquito,E,Oscura,Absorción,Refrescos
+390,Deprisquito,C,Oscura,Absorción,Refrescos
+391,Picorrón,A,Oscura,Relámpago,Refrescos
+392,Nomevén,E,Oscura,Viento,Arroz
+393,Nostoy,B,Oscura,Viento,Arroz
+394,Nul,A,Oscura,Viento,Arroz
+395,Panceto,E,Oscura,Fuego,Perritos calientes
+396,Suspicioni,D,Oscura,Agua,Comida china
+397,Pataletoni,D,Oscura,Fuego,Comida china
+398,Contrarioni,B,Oscura,Relámpago,Comida china
+399,Keji Do Khan,D,Oscura,Viento,Carne
+400,Gruñon Khan,B,Oscura,Viento,Carne
+401,Enciélago,D,Oscura,Viento,Carne
+402,Caseriélago,A,Oscura,Viento,Carne
+403,Ermiciélago,A,Oscura,Viento,Carne
+404,Prestragón,D,Oscura,Absorción,Sushi
+405,Bolsadrón,A,Oscura,Absorción,Sushi
+406,Bilgatino,D,Oscura,Absorción,Pizza
+407,Su Hackeltad,A,Oscura,Absorción,Pizza
+408,Hazlotú,C,Oscura,Absorción,Sushi
+409,Záppingla,C,Oscura,Hielo,Hamburguesa
+410,Rataleza,C,Oscura,Absorción,Leche
+411,Rey Pulsivo,C,Oscura,Hielo,Sushi
+412,Timo Gallo,C,Oscura,Absorción,Pizza
+413,Rocky Malrolla,C,Oscura,Hielo,Perritos calientes
+414,Hierodista,C,Oscura,Absorción,Helado
+415,Herrato,C,Oscura,Absorción,Tempura
+416,Tengulecto,C,Oscura,Viento,Pan
+417,Tengullón,B,Oscura,Viento,Pan
+418,Espaoi,C,Oscura,Viento,Curry
+419,Frivolia,B,Oscura,Hielo,Sushi
+420,Dracunyan,B,Oscura,Absorción,Chocobarrita
+421,MC Kappa,B,Oscura,Agua,Hamburguesa
+422,Tumbardillo,B,Oscura,Relámpago,Rosquillas
+423,Usapyon,B,Oscura,Hielo,Rosquillas
+424,Usapyon,B,Oscura,Relámpago,Rosquillas
+425,Usapyon,B,Oscura,Agua,Rosquillas
+426,Usapyon,B,Oscura,Tierra,Rosquillas
+427,Usapyon,B,Oscura,Viento,Rosquillas
+428,Usapyon B,B,Oscura,Hielo,Rosquillas
+429,Usapyon Zhongda,S,Oscura,Hielo,Rosquillas
+430,Babamandra,B,Oscura,Fuego,Productos cocidos
+431,Negasus,A,Oscura,Viento,Verduras
+432,Pifiasus,A,Oscura,Absorción,Verduras
+433,Tripasqueleto,A,Oscura,Viento,Leche
+434,Timidiablo,A,Oscura,Fuego,Ramen
+435,Osademonio,S,Oscura,Fuego,Ramen
+436,Conde Caries,S,Oscura,Fuego,Ramen
+437,Ojezno,A,Oscura,Tierra,Carne
+438,Joyezno,S,Oscura,Relámpago,Postres
+439,Avarqueroso,A,Oscura,Fuego,Carne
+440,Diablés,S,Oscura,Agua,Carne
+441,Caldewok,S,Oscura,Tierra,Fideos
+442,Oskyubi,S,Oscura,Absorción,Productos cocidos
+443,Dr. Nihil Listo,S,Oscura,Absorción,Tempura
+444,Dr. Nocturnia,S,Oscura,Absorción,Tempura
+445,Espayá,S,Oscura,Viento,Curry
+446,Corbapacasa,E,Siniestra,Fuego,Leche
+447,Cartairada,E,Siniestra,Absorción,Hamburguesa
+448,Ambivalencio,E,Siniestra,Relámpago,Perritos calientes
+449,Lapo,E,Siniestra,Absorción,Helado
+450,Ejemtos,E,Siniestra,Agua,Pan
+451,Erizlor,D,Siniestra,Hielo,Pan
+452,Goto,E,Siniestra,Agua,Refrescos
+453,Sirimiri,B,Siniestra,Agua,Refrescos
+454,Copo,E,Siniestra,Hielo,Refrescos
+455,Ventisquero,B,Siniestra,Hielo,Refrescos
+456,Coagulón,D,Siniestra,Fuego,Refrescos
+457,Cartepollo,E,Siniestra,Absorción,Hamburguesa
+458,Mirlobirlo,B,Siniestra,Absorción,Hamburguesa
+459,Rafaz,D,Siniestra,Absorción,Hamburguesa
+460,Estréquito,E,Siniestra,Hielo,Curry
+461,Vrumbo,B,Siniestra,Hielo,Curry
+462,Ayay,E,Siniestra,Viento,Pan
+463,Horterraro,C,Siniestra,Viento,Pan
+464,Alarción,A,Siniestra,Viento,Pan
+465,Cantonio,E,Siniestra,Fuego,Curry
+466,Multiniche,B,Siniestra,Fuego,Curry
+467,Ser Bero,A,Siniestra,Tierra,Curry
+468,Peluco,E,Siniestra,Tierra,Arroz
+469,Foliculio,A,Siniestra,Tierra,Arroz
+470,Dabombo,E,Siniestra,Absorción,Arroz
+471,Los Bomboledores,A,Siniestra,Absorción,Arroz
+472,No-No,D,Siniestra,Restauración,Hamburguesa
+473,Amarilia,D,Siniestra,Absorción,Helado
+474,Sheriff Agonio,D,Siniestra,Hielo,Perritos calientes
+475,Padefo,D,Siniestra,Tierra,Tempura
+476,Reboca,D,Siniestra,Relámpago,Pan
+477,Pilicajosa,C,Siniestra,Absorción,Pan
+478,Negatalia,D,Siniestra,Tierra,Pan
+479,Tristeresa,C,Siniestra,Absorción,Pan
+480,Aranecido,D,Siniestra,Tierra,Productos cocidos
+481,Desaranecido,B,Siniestra,Tierra,Productos cocidos
+482,Batallitos,C,Siniestra,Relámpago,Fideos
+483,Eskakeo,C,Siniestra,Viento,Pescado
+484,Graciosno,C,Siniestra,Absorción,Aperitivos
+485,Hilarión,B,Siniestra,Absorción,Aperitivos
+486,Sololo,C,Siniestra,Relámpago,Productos cocidos
+487,Maracario,C,Siniestra,Absorción,Pescado
+488,Pandalón,C,Siniestra,Agua,Pizza
+489,Cuesco,C,Siniestra,Hielo,Leche
+490,Péditum,A,Siniestra,Hielo,Leche
+491,Lena,C,Siniestra,Absorción,Aperitivos
+492,Malena,A,Siniestra,Absorción,Aperitivos
+493,Robocantonio,B,Siniestra,Viento,Curry
+494,Pelusón,B,Siniestra,Hielo,Verduras
+495,Amarguito,B,Siniestra,Absorción,Pizza
+496,Náuseo,B,Siniestra,Absorción,Pasta
+497,Arruñona,B,Siniestra,Absorción,Leche
+498,Belladona,S,Siniestra,Absorción,Leche
+499,Eterna,S,Siniestra,Absorción,Leche
+500,Termascino,A,Siniestra,Fuego,Curry
+501,Darknyan,A,Siniestra,Viento,Pescado
+502,Condespótico,A,Siniestra,Relámpago,Sushi
+503,Flequipilante,A,Siniestra,Tierra,Tempura
+504,Insomna,A,Siniestra,Hielo,Chuches
+505,Morfea,S,Siniestra,Absorción,Chuches
+506,Aracnio,S,Siniestra,Tierra,Fideos
+507,Aracne,S,Siniestra,Tierra,Fideos
+508,Origenio,S,Siniestra,Absorción,Pizza
+509,Horrogenio,S,Siniestra,Absorción,Pizza
+510,Fulgurilla,S,Siniestra,Fuego,Tempura
+511,Tortícolis,E,Escurridiza,Agua,Sushi
+512,Saltetera,E,Escurridiza,Agua,Refrescos
+513,Don Despacito,E,Escurridiza,Agua,Pescado
+514,Sierpesado,E,Escurridiza,Relámpago,Pasta
+515,Cobravil,B,Escurridiza,Relámpago,Pasta
+516,Noko,E,Escurridiza,Tierra,Hamburguesa
+517,Florinoko,A,Escurridiza,Tierra,Hamburguesa
+518,Pandanoko,A,Escurridiza,Hielo,Hamburguesa
+519,Estrenoko,B,Escurridiza,Restauración,Rosquillas
+520,Malmet,E,Escurridiza,Relámpago,Postres
+521,Agorerana,A,Escurridiza,Relámpago,Postres
+522,Aymadrilo,D,Escurridiza,Agua,Carne
+523,Naqueperder,D,Escurridiza,Agua,Pescado
+524,Borjamar,D,Escurridiza,Agua,Tempura
+525,Anjijila,D,Escurridiza,Restauración,Carne
+526,Tenongrio,C,Escurridiza,Absorción,Carne
+527,Urnaconda,C,Escurridiza,Restauración,Carne
+528,Minipulpobola,D,Escurridiza,Fuego,Productos cocidos
+529,Pulpobola Rey,B,Escurridiza,Fuego,Productos cocidos
+530,Pezqueroso,D,Escurridiza,Relámpago,Carne
+531,Pezgativo,B,Escurridiza,Relámpago,Carne
+532,Pezquiciado,A,Escurridiza,Fuego,Carne
+533,Desolvidador,D,Escurridiza,Restauración,Fideos
+534,Memorio,A,Escurridiza,Restauración,Fideos
+535,Mosquereta,D,Escurridiza,Fuego,Hamburguesa
+536,Bronquereta,A,Escurridiza,Fuego,Hamburguesa
+537,Draqui,D,Escurridiza,Tierra,Comida china
+538,Lord Dragón,S,Escurridiza,Tierra,Comida china
+539,Dragón Azur,S,Escurridiza,Agua,Comida china
+540,Nereida,D,Escurridiza,Agua,Postres
+541,Sirenia,S,Escurridiza,Agua,Postres
+542,Oceánida,S,Escurridiza,Agua,Postres
+543,Bebesaurio,D,Escurridiza,Tierra,Perritos calientes
+544,Destrozasaurio,S,Escurridiza,Tierra,Perritos calientes
+545,Torpesaurio,S,Escurridiza,Tierra,Perritos calientes
+546,Cisnia,C,Escurridiza,Restauración,Postres
+547,Whisper,C,Escurridiza,Absorción,Helado
+548,Whispócrates,C,Escurridiza,Absorción,Helado
+549,Luigi Longueras,C,Escurridiza,Viento,Chuches
+550,Pulpopular,C,Escurridiza,Agua,Pescado
+551,Tentanfadado,C,Escurridiza,Fuego,Pescado
+552,Ido,C,Escurridiza,Absorción,Chuches
+553,Turdido,B,Escurridiza,Absorción,Chuches
+554,Pellurón,B,Escurridiza,Agua,Verduras
+555,Pringurón,B,Escurridiza,Agua,Verduras
+556,Boquirroto,C,Escurridiza,Viento,Pan
+557,Yopago,B,Escurridiza,Agua,Pan
+558,Charlatón,C,Escurridiza,Agua,Chuches
+559,Tochaplátano,B,Escurridiza,Agua,Chuches
+560,Tochacolate,A,Escurridiza,Relámpago,Postres
+561,Vacilagón,B,Escurridiza,Hielo,Ramen
+562,Robonoko,A,Escurridiza,Tierra,Hamburguesa
+563,Robodraqui,A,Escurridiza,Fuego,Comida china
+564,Sustóleo,B,Escurridiza,Hielo,Tempura
+565,Mandícoro,B,Escurridiza,Fuego,Pescado
+566,Cinisierpe,B,Escurridiza,Agua,Pescado
+567,Arfidio,A,Escurridiza,Relámpago,Pescado
+568,Bergantín,A,Escurridiza,Agua,Productos cocidos
+569,Reptozudo,A,Escurridiza,Agua,Sushi
+570,Venocto,S,Escurridiza,Relámpago,Pescado
+571,Venoctoscuro,S,Escurridiza,Restauración,Pescado
+572,Saporientador,S,Escurridiza,Restauración,Sushi
+573,Originyan,E,-,Fuego,Chocobarrita
+574,Aydroide Y,B,Aydroide,Relámpago,Curry
+575,Injustio,S,Maléfica,Absorción,Aperitivos
+576,Malicia,S,Maléfica,Agua,Pescado
+577,Implacablio,S,Maléfica,Tierra,Carne
+578,Inaguantablio,S,Maléfica,Viento,Productos cocidos
+579,Destrukto,S,Maléfica,Relámpago,Curry
+580,Chupatodo,C,Maléfica,Relámpago,Productos cocidos
+581,Aterrahorror,B,Maléfica,Tierra,Productos cocidos
+582,Apéstula,A,Maléfica,Viento,Postres
+583,Kappamalo,A,Maléfica,Agua,Comida china
+584,Sombrío,D,Maléfica,Viento,Productos cocidos
+585,Pillastre,C,Maléfica,Restauración,Aperitivos
+586,Toragorero,C,Maléfica,Restauración,Sushi
+587,Cardado,D,Maléfica,Tierra,Arroz
+588,Trampeida,C,Maléfica,Agua,Postres
+589,Malisnia,B,Maléfica,Restauración,Postres
+590,Rey Jibanyan,A,Guapa,Fuego,Chocobarrita
+591,Reina Usapyon,A,Oscura,Hielo,Rosquillas
+592,Jotamasan,A,Guapa,Fuego,Helado
+593,Diez de Komajiro,A,Guapa,Relámpago,Leche
+594,Asnyan,A,Valiente,Viento,Pescado
+595,Whismodín,A,Escurridiza,Absorción,Helado
+596,Benzaiten,S,Guapa,Relámpago,Curry
+597,Hotei,S,Misteriosa,Viento,Fideos
+598,Daikokuten,S,Robusta,Tierra,Productos cocidos
+599,Ebisu,S,Escurridiza,Restauración,Pescado
+600,Bishamonten,S,Valiente,Fuego,Carne
+601,Gatóbal Colón,S,Valiente,Agua,Pasta
+602,T. Energison,S,Misteriosa,Relámpago,Hamburguesa
+603,Dargüin,S,Amable,Restauración,Pizza
+604,Último Nyanmurái,S,Valiente,Fuego,Tempura
+605,Koma Estrella,S,Misteriosa,Relámpago,Helado
+606,Platinum,S,Robusta,Relámpago,Pizza
+607,Abuspléndido,S,Amable,Restauración,Sushi
+608,Shogunyan,S,Valiente,Viento,Pescado
+609,Komasura,S,Misteriosa,Fuego,Helado
+610,Dorantúo,S,Robusta,Relámpago,Carne
+611,Chafarina,S,Guapa,Viento,Postres
+612,Abuflorido,S,Amable,Restauración,Arroz
+613,Repeloso,S,Oscura,Absorción,Curry
+614,Dandiniche,S,Siniestra,Restauración,Comida china
+615,Octosierpe,S,Escurridiza,Absorción,Carne
+616,Re-Q-Pera,S,Siniestra,Absorción,Productos cocidos
+617,Divamarina,S,Guapa,Agua,Sushi
+618,Todobelicoso,S,Valiente,Fuego,Carne
+619,Terminyanator,A,Robusta,Fuego,Chocobarrita
+620,Supernyan,A,Valiente,Viento,Chocobarrita
+621,Hovernyan S,S,Valiente,Viento,Pescado
+622,Hovernyan Cao Cao,S,Valiente,Viento,Pescado
+623,Yoguididacta,C,Misteriosa,Tierra,Curry
+624,Frauduralla,B,Robusta,Tierra,Sushi
+625,Insaciablo,B,Robusta,Tierra,Sukiyaki
+626,Penancio,A,Robusta,Absorción,Leche
+627,Venoctobot,S,Robusta,Relámpago,Pescado
+628,Demoniorco Lu Bu,S,Robusta,Absorción,Carne
+629,Kyubot,S,Robusta,Relámpago,Productos cocidos
+630,Robonyan Definitivo,S,Robusta,Viento,Chocobarrita
+631,Topiña,D,Guapa,Restauración,Verduras
+632,Miss Mousse,B,Guapa,Restauración,Postres
+633,Populina,B,Guapa,Restauración,Postres
+634,Koalanyan,A,Guapa,Restauración,Sushi
+635,Jibanyan T,A,Guapa,Tierra,Chocobarrita
+636,Komasan T,A,Guapa,Tierra,Helado
+637,Yemajestad,S,Guapa,Restauración,Sukiyaki
+638,Ciclomán,S,Guapa,Relámpago,Sukiyaki
+639,Deporchugo,C,Amable,Restauración,Verduras
+640,Timorato Buendía,C,Amable,Agua,Aperitivos
+641,Maripasada,A,Amable,Restauración,Aperitivos
+642,Ulteria,A,Amable,Restauración,Rosquillas
+643,Milperdones,C,Oscura,Absorción,Helado
+644,Angustiánima,C,Oscura,Absorción,Sukiyaki
+645,Cutremomia,B,Oscura,Absorción,Sana
+646,Kapman,A,Oscura,Absorción,Helado
+647,Tofupyon,A,Oscura,Restauración,Sukiyaki
+648,Dex Cápito,S,Oscura,Absorción,Sukiyaki
+649,Embajador Fabuloso,S,Oscura,Relámpago,Tempura
+650,Intelecto,S,Oscura,Relámpago,Carne
+651,Zazel,S,Oscura,Absorción,Comida china
+652,Procrastinocho,C,Siniestra,Absorción,Refrescos
+653,Cofre Cafre,C,Siniestra,Absorción,Perritos calientes
+654,Cocó Masiel,S,Siniestra,Absorción,Aperitivos
+655,Whisper Kongming,A,Escurridiza,Absorción,Helado
+656,Jurojin,S,Oscura,Absorción,Ramen
+657,Fukurokuju,S,Amable,Restauración,Sushi
+658,Maldenotep,S,Misteriosa,Relámpago,Curry
+659,Rey Palmiro,S,Robusta,Tierra,Fideos
+660,Pandora,S,Guapa,Absorción,Sukiyaki
+661,Ingenio,S,Amable,Viento,Sukiyaki
+662,Bastenyan,S,Oscura,Absorción,Pescado
+663,Komanubis,S,Siniestra,Absorción,Pan
+664,Discursi,S,Guapa,Viento,Postres
+665,Educoso,S,Oscura,Absorción,Leche
+666,Lord Pedigrí,S,Siniestra,Hielo,Fideos
+667,Urbasierpe,S,Escurridiza,Fuego,Tempura
+668,Pregundragón,S,Escurridiza,Hielo,Sukiyaki
+669,Gran Enma,S,Enma,Fuego,Chuches
+670,Zazel Justiciero,S,Valiente,Restauración,Tempura
+671,Intelecto Iluminado,S,Oscura,Relámpago,Carne
+672,Enma Ancestral,S,Enma,Fuego,Productos cocidos
+673,Gran Enma Iluminado,S,Enma,Relámpago,Sukiyaki
+674,Rolláculo,S,Escurridiza,Hielo,Fideos
+675,Maharazás,S,Valiente,Fuego,Sukiyaki
+676,Cimbalina,B,Guapa,Restauración,Fideos
+677,Masculloso,A,Robusta,Agua,Carne
+678,Vociferio,A,Robusta,Fuego,Pescado
+679,Aviguito Pío,A,Oscura,Absorción,Sukiyaki
+680,Frustrolillo,B,Siniestra,Fuego,Sukiyaki
+681,Bóvida,S,Valiente,Tierra,Postres
+682,Equinio,S,Valiente,Hielo,Fideos
+683,Pecificador,S,Escurridiza,Agua,Pescado
+684,Alpina,S,Amable,Restauración,Verduras
+685,Seleno,S,Oscura,Relámpago,Pizza
+686,Grazi,S,Guapa,Hielo,Chuches
+687,KJ,B,Guapa,Relámpago,Leche
+688,Enma Solar,S,Enma,Fuego,Sushi
+689,Enma Infinito,S,Enma,Relámpago,Tempura
+690,Enma Umbrío,S,Enma,Absorción,Sukiyaki
+691,Tibu Jones,A,Escurridiza,Agua,Pescado
+692,Vulcavador,A,Misteriosa,Relámpago,Sushi
+693,Adoleszombi,A,Siniestra,Fuego,Carne
+694,Nyansés II,A,Amable,Restauración,Leche
+695,Miopatra,S,Guapa,Restauración,Verduras
+696,Mazado de la Calzada,S,Escurridiza,Tierra,Arroz
+697,Dradorado,S,Valiente,Relámpago,Curry
+698,Fenixtelecto,S,Valiente,Fuego,Carne
